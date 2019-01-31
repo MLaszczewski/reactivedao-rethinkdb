@@ -1,0 +1,39 @@
+{
+  "_from": "git+https://github.com/MLaszczewski/reactive-dao-rethink-event-sourcing.git",
+  "_id": "reactive-dao-rethink-event-sourcing@0.1.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/reactive-dao-rethink-event-sourcing",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "reactive-dao-rethink-event-sourcing@git+https://github.com/MLaszczewski/reactive-dao-rethink-event-sourcing.git",
+    "name": "reactive-dao-rethink-event-sourcing",
+    "escapedName": "reactive-dao-rethink-event-sourcing",
+    "rawSpec": "git+https://github.com/MLaszczewski/reactive-dao-rethink-event-sourcing.git",
+    "saveSpec": "git+https://github.com/MLaszczewski/reactive-dao-rethink-event-sourcing.git",
+    "fetchSpec": "https://github.com/MLaszczewski/reactive-dao-rethink-event-sourcing.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/MLaszczewski/reactive-dao-rethink-event-sourcing.git#f4c888a1b6151f7b349c58a833c2b3b9897f2197",
+  "_spec": "reactive-dao-rethink-event-sourcing@git+https://github.com/MLaszczewski/reactive-dao-rethink-event-sourcing.git",
+  "_where": "/home/m8/IdeaProjects/RealtimeCMS",
+  "author": "",
+  "bundleDependencies": false,
+  "dependencies": {
+    "reactive-dao": "git+https://github.com/ReactiveObserver/reactive-dao.git",
+    "rethinkdb": "^2.3.3"
+  },
+  "deprecated": false,
+  "description": "",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "reactive-dao-rethink-event-sourcing",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.0"
+}
